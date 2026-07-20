@@ -4,7 +4,6 @@ Fast, local-first snippet manager for IDE.
 
 Create, organize, search, edit, and reuse your code snippets using a fast SQLite-powered backend and a native VS Code experience.
 
-
 ---
 
 ##  Features
@@ -29,19 +28,24 @@ Create, organize, search, edit, and reuse your code snippets using a fast SQLite
 
 ### Command Palette
 
-![Command Palette](https://raw.githubusercontent.com/MohammedHafiz27/snippey-code/main/media/commands.png)
+<img src="https://raw.githubusercontent.com/MohammedHafiz27/snippey-code/main/media/commands.png" width="700" alt="Command Palette" />
 
-### Root View
+### Root View & Creating a Snippet
 
-![Root View](https://raw.githubusercontent.com/MohammedHafiz27/snippey-code/main/media/root-view.png)
-### Creating a Snippet
-
-![Create Snippet](https://raw.githubusercontent.com/MohammedHafiz27/snippey-code/main/media/create-snippet.png)
+<table>
+  <tr>
+    <td align="center"><b>Root View</b></td>
+    <td align="center"><b>Creating a Snippet</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/MohammedHafiz27/snippey-code/main/media/root-view.png" width="380" alt="Root View" /></td>
+    <td><img src="https://raw.githubusercontent.com/MohammedHafiz27/snippey-code/main/media/create-snippet.png" width="380" alt="Create Snippet" /></td>
+  </tr>
+</table>
 
 ### Demo
 
-
-![Watch demo](https://raw.githubusercontent.com/MohammedHafiz27/snippey-code/main/media/demo.gif)
+<img src="https://raw.githubusercontent.com/MohammedHafiz27/snippey-code/main/media/demo.gif" width="700" alt="Demo" />
 
 ---
 
