@@ -1,0 +1,26 @@
+Proprietary Commercial License
+
+Copyright (c) 2026 Mohammed Hafiz. All Rights Reserved.
+
+This software and its documentation are proprietary and confidential. 
+
+By installing or using this software, you agree to the following terms:
+
+1. LICENSE GRANT
+The developer ("Licensor") grants you a non-exclusive, non-transferable, revocable license to use the compiled extension solely within Visual Studio Code.
+
+2. RESTRICTIONS
+You are strictly prohibited from:
+- Redistributing, renting, leasing, sublicensing, or selling the software or any portion thereof.
+- Modifying, adapting, translating, or creating derivative works based on the software.
+- Reverse engineering, decompiling, disassembling, or attempting to discover the source code of the software, except and only to the extent that such activity is expressly permitted by applicable law notwithstanding this limitation.
+- Using the software for any commercial redistribution or commercial software reuse without an explicit commercial license agreement from the Licensor.
+
+3. OWNERSHIP
+The software, including all copyrights, trademarks, patents, and other intellectual property rights, is and shall remain the sole property of Mohammed Hafiz.
+
+4. TERMINATION
+This license will terminate automatically if you fail to comply with any of its terms. Upon termination, you must cease all use of the software and uninstall the extension.
+
+5. DISCLAIMER OF WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
