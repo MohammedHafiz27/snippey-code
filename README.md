@@ -5,6 +5,8 @@ Fast, local-first snippet manager for IDE.
 Create, organize, search, edit, and reuse your code snippets using a fast SQLite-powered backend and a native VS Code experience.
 
 
+---
+
 ##  Features
 
 - **Smart Command Palette**: Access all snippet operations quickly from VS Code's command interface.
@@ -24,6 +26,22 @@ Create, organize, search, edit, and reuse your code snippets using a fast SQLite
 3. Create, organize, or search your snippets.
 4. Edit snippets seamlessly in the native VS Code editor.
 5. Press **Ctrl+S** (`Cmd+S`) to save.
+
+### Command Palette
+
+![Command Palette](https://raw.githubusercontent.com/MohammedHafiz27/snippey-code/main/media/commands.png)
+
+### Root View
+
+![Root View](https://raw.githubusercontent.com/MohammedHafiz27/snippey-code/main/media/root-view.png)
+### Creating a Snippet
+
+![Create Snippet](https://raw.githubusercontent.com/MohammedHafiz27/snippey-code/main/media/create-snippet.png)
+
+### Demo
+
+
+![Watch demo](https://raw.githubusercontent.com/MohammedHafiz27/snippey-code/main/media/demo.gif)
 
 ---
 
@@ -48,8 +66,6 @@ Yes. No cloud services or accounts are required. SnippyCode is completely local-
 ### Can I back up my snippets?
 
 Yes. Use the built-in Import and Export features to export or restore your library anytime.
-
-
 
 ---
 
